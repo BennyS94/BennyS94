@@ -6,7 +6,7 @@
 
 I'm an Economic Informatics graduate from the Bucharest University of Economic Studies, currently pursuing an MSc in E-Business.
 
-I'm interested in backend development, APIs, databases, application security and data processing, with a strong focus on Python.
+I'm interested in backend development, APIs, databases, application security and data processing.
 
 - 🎓 BSc in Economic Informatics
 - 📚 MSc student in E-Business
