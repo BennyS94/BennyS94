@@ -6,7 +6,7 @@
 
 I'm an Economic Informatics graduate from the Bucharest University of Economic Studies, currently pursuing an MSc in E-Business.
 
-I'm interested in backend development, APIs, databases, application security and data processing.
+I'm interested in backend development, APIs, databases, application security, data processing and applied AI.
 
 - 🎓 BSc in Economic Informatics
 - 📚 MSc student in E-Business
@@ -23,17 +23,11 @@ I'm interested in backend development, APIs, databases, application security and
 
 ## Projects
 
-### [TableTogether](https://github.com/BennyS94/tabletogether)
+A few projects I've been working on:
 
-Household meal-planning application built with React Native, FastAPI and a deterministic Python planning engine.
-
-[Repository](https://github.com/BennyS94/tabletogether) · [Live Showcase](https://bennys94.github.io/tabletogether/)
-
-### [Secure School Gradebook API](https://github.com/BennyS94/secure-school-gradebook-api)
-
-Security-focused FastAPI backend built around authentication, authorization, RBAC, contextual access control and secure session handling.
-
-[Repository](https://github.com/BennyS94/secure-school-gradebook-api)
+1. [TableTogether](https://github.com/BennyS94/tabletogether) — Household meal-planning application built with React Native, FastAPI and a deterministic Python planning engine. [Live Showcase](https://bennys94.github.io/tabletogether/)
+2. [Secure School Gradebook API](https://github.com/BennyS94/secure-school-gradebook-api) — Security-focused FastAPI backend with authentication, RBAC, contextual access control and secure session handling.
+3. [Banking AI SQL Analyst](https://github.com/BennyS94/banking-ai-sql-analyst) — **In progress** — AI-assisted banking analytics application designed to translate natural-language questions into validated, read-only PostgreSQL queries.
 
 ## Let's Connect!
 
