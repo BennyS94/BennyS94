@@ -25,7 +25,7 @@ I'm interested in backend development, APIs, databases, application security, da
 
 1. [TableTogether](https://github.com/BennyS94/tabletogether) · [Live Showcase](https://bennys94.github.io/tabletogether/) — Full-stack household meal-planning app built with React Native and FastAPI.
 2. [Secure School Gradebook API](https://github.com/BennyS94/secure-school-gradebook-api) — Security-focused FastAPI backend with RBAC and secure authentication.
-3. [Banking AI SQL Analyst](https://github.com/BennyS94/banking-ai-sql-analyst) — **In progress** — AI-powered NL-to-SQL analytics with PostgreSQL.
+3. [Banking AI SQL Analyst](https://github.com/BennyS94/banking-ai-sql-analyst) — AI-powered NL-to-SQL analytics with PostgreSQL.
 
 ## Let's Connect!
 
